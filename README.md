@@ -25,7 +25,7 @@
 name: Mohd Alisher Hussain
 role: B.Tech CSE (Data Science) @ SRM Ghaziabad
 focus: Cloud-Native Architecture · Serverless Systems · Full Stack
-cgpa: 8.35 / 10
+cgpa: 8.51 / 10
 expected_graduation: 2027
 currently_building: Serverless & Event-Driven cloud solutions on AWS
 ```
